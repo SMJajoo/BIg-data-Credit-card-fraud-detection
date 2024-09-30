@@ -20,8 +20,6 @@ Three aproaches are used to solve this problem.
 
 <img width="1841" alt="Local SMOTE+ENN" src="https://user-images.githubusercontent.com/49164907/181906259-aa0b4e06-b366-4139-b50a-19cda92c4e9f.png">
 
-<img width="221" alt="image" src="https://user-images.githubusercontent.com/49164907/181906383-cfa9a4bd-d600-4bcd-8519-51159bf25c4d.png">
-
 
 2. Global - Smote_Enn_Global
 <img width="251" alt="image" src="https://user-images.githubusercontent.com/49164907/181906323-39dfcf3f-dd84-49af-89b5-1ea36e8c8a1f.png">
